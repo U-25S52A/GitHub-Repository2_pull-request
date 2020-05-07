@@ -1,0 +1,2 @@
+this text file has been added in branch-1 (local VSC)
+Additional line has been amended from branch-1 (local VSC)
