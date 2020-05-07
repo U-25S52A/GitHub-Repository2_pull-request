@@ -1,1 +1,2 @@
 this file has been added inside feature2 folder from branch-2 (local VSC)
+another line has been added from branch-2 (local VSC)
